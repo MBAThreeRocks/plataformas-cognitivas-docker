@@ -1,0 +1,6 @@
+{
+  "FacialDetection": {
+    "KEY": "a796e342ca454440868b52ef26ceac5b",
+    "ENDPOINT": "https://fiap15aifacial.cognitiveservices.azure.com/"
+  }
+}
