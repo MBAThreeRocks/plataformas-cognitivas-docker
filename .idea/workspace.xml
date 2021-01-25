@@ -25,13 +25,13 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/database" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/models" />
       <recent name="$PROJECT_DIR$/keys" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/database" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -74,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611442520585</updated>
       <workItem from="1611442524990" duration="1381000" />
-      <workItem from="1611512133298" duration="1909000" />
+      <workItem from="1611512133298" duration="2367000" />
     </task>
     <servers />
   </component>
